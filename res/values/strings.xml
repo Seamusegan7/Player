@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Players Data</string>
+    <string name="button_addPlayer">Add Player</string>
+    <string name="hint_playerName">Player Name</string>
+    <string name="hint_playersClub">Players Club</string>
+    <string name="menu_addPlayer">Add</string>
+    <string name="menu_cancelPlayer">Cancel</string>
+    <string name="enter_player_title"> Please enter a Player Title </string>
+    <string name="save_player"> Save Player </string>
+    <string name="button_addImage"> Add Image </string>
+    <string name="select_player_image">Select player image</string>
+    <string name="change_player_image">Change Image</string>
+    <string name="player_image">player image</string>
+    <string name="button_location">Set Club Location</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="menu_deletePlayer">Delete</string>
+    <string name="splash_title">Welcome to the Players Data App</string>
+
+
+</resources>
