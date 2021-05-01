@@ -1,0 +1,2 @@
+org/wit/player/BuildConfig.java
+ org.wit.player.BuildConfig
