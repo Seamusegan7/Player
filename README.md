@@ -12,12 +12,19 @@ Player - Kotlin Android App
 
 **Functionality**
 
-
 The main functions of this App is to be able to add players from popular football clubs and give information about them. You will be able to update or delete this information at any time. The information that you can add in about the player is:
 1.Player Name
 2.Players Club
 3.Player Rating
 4.Player Image
 5.Clubs Location
+
+
+**Author/Acknowledgments*
+
+This project was completed by Seamus Egan final year student studying BSc in Information Technology as part of his Mobile App Development module. Special acknowledgment to the lecturers of this module for their help and assistance with this project.
+
+
+
 
 
