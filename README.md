@@ -9,6 +9,8 @@ Player - Kotlin Android App
 3.Maps Activity
 4.Splash Activity
 
+**Inspiration**
+Having a big interest in football it was always going to be my first idea to build an app around football. Having an app in which you can view players and information about them is a great idea especially for kids who idolises these players. The App allows you to have the freedom to add in any player you want with a few easy steps. Simplicity was the main aim when creating the App. I wanted it to be easy to use to help younger users of the app and also have a good design.
 
 **Functionality**
 
