@@ -20,7 +20,7 @@ The main functions of this App is to be able to add players from popular footbal
 5.Clubs Location
 
 
-**Author/Acknowledgments*
+**Author/Acknowledgments**
 
 This project was completed by Seamus Egan final year student studying BSc in Information Technology as part of his Mobile App Development module. Special acknowledgment to the lecturers of this module for their help and assistance with this project.
 
